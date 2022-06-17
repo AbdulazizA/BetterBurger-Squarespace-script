@@ -1,0 +1,1 @@
+# BetterBurger-Squarespace-script
