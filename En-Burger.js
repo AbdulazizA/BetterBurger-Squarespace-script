@@ -168,5 +168,5 @@
 
         }
     }
-    window.customElements.define('better-burger', BetterBurger)
+    window.customElements.define('en-better-burger', BetterBurger)
 })();
